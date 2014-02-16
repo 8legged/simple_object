@@ -1,0 +1,22 @@
+{
+  "name": "simple_object",
+  "version": "0.0.0",
+  "description": "hello simple_object",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kelw",
+  "repository": "no repository",
+  "license": "ISC",
+
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "chai": "~1.9.0",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-simple-mocha": "~0.4.0"
+  }
+}
